@@ -1,1 +1,6 @@
+VARIANT #2
+- create PR to main;
+- wait for approve;
+- merge PR;
+
 It`s home-work-03 by Denys Navrotskyi (04.08.2021)
